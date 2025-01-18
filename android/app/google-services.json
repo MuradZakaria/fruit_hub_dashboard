@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "889642624656",
+    "project_id": "fruit-hub-92571",
+    "storage_bucket": "fruit-hub-92571.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889642624656:android:ee6c348048383b31865a15",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889642624656-kiufbe3saa79i8vdt5lu1kj6e8qfni6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGG59RjAxV_yWVifd7LWUK3hKbM2rMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889642624656-kiufbe3saa79i8vdt5lu1kj6e8qfni6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889642624656-edh3ppl409iuebu0piah8q0dj3o2do7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fruitApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889642624656:android:ced05e15878f5c2f865a15",
+        "android_client_info": {
+          "package_name": "com.example.fruit_hub_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889642624656-kiufbe3saa79i8vdt5lu1kj6e8qfni6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGG59RjAxV_yWVifd7LWUK3hKbM2rMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889642624656-kiufbe3saa79i8vdt5lu1kj6e8qfni6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889642624656-edh3ppl409iuebu0piah8q0dj3o2do7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fruitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
