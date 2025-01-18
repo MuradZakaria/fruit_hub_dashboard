@@ -8,7 +8,7 @@ static const String routeName = 'dashboard';
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: DashboardViewBody(),
+      body:DashboardViewBody()
     );
   }
 }
