@@ -7,14 +7,25 @@ environment:
   sdk: '>=3.4.4 <4.0.0'
 
 dependencies:
-  
+  flutter_bloc: ^8.1.6
+  firebase_core: ^3.10.0
   flutter:
     sdk: flutter
-  firebase_core: ^3.10.0
-dev_dependencies:
+  image_picker: ^1.1.2
+  skeletonizer: ^1.4.3
+  dartz: ^0.10.1
+  firebase_storage: ^12.4.1
+  cloud_firestore: ^5.6.0
+  get_it: ^8.0.3
+  path: ^1.9.0
+  modal_progress_hud_nsn: ^0.5.1
+  supabase_flutter: ^2.8.3
+  image_picker_web: ^4.0.0
+  
+dev_dependencies: 
+  flutter_lints: ^3.0.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
 
 flutter:
   uses-material-design: true

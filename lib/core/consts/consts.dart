@@ -1,0 +1,2 @@
+ const kSubabaseUrl='https://imeokzwamivmrwwcfvef.supabase.co';
+ const kAnonKey= 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImltZW9rendhbWl2bXJ3d2NmdmVmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczODE2MTE3NCwiZXhwIjoyMDUzNzM3MTc0fQ.ODm6Oxib2d6yEQZHU3eyK_72OOHEUvE55jvwXk-woBc';
